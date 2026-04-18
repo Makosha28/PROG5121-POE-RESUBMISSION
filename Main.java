@@ -6,7 +6,7 @@ package com.mycompany.main;
 
 /**
  *
- * @author mamphekgonthabiseng
+ * @author mamphekgomakosha
  */
 import java.util.Scanner;
 
